@@ -1,0 +1,17 @@
+.list--item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    width: 176px;
+    height: 44px;
+    color: #869AB8;
+    align-items: center;
+    display: flex;
+    justify-content: left;
+}
+.item:hover{
+    background-color: #A7C4FF;
+}

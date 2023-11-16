@@ -1,0 +1,62 @@
+
+.icon--menu{
+    background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -1157px -32px;
+	width: 20px;
+	height:20px;
+	padding: 2px;
+	margin-top: 20px;
+}
+.icon--logo{
+	height: 20px;
+	width: 56px;
+
+}
+.icon--logo img{
+	height: 50px;
+}
+.icon--item{
+	width: 20px;
+	height: 20px;
+	padding: 2px;
+}
+.icon--home{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -33px -1630px;
+}
+.icon--cash{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -78px -1631px;
+}
+.icon--credit{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -121px -1633px;
+}
+.icon--shopping{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -165px -1632px;
+}
+.icon--sell{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -206px -1631px;
+}
+.icon--bill{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat  -254px -1632px;
+}
+.icon--warehouse{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -294px -1632px;
+}
+.icon--tool{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -339px -1633px;
+}
+
+.icon--assets{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -382px -1632px;
+}
+.icon--price{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -552px -1636px;
+}
+.icon--synthetic{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -514px -1632px;
+}
+.icon--report{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -552px -1636px;
+}
+
+.icon--analysis{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -207px -1667px;
+}
