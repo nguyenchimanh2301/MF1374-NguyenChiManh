@@ -5,10 +5,11 @@
 	height:20px;
 	padding: 2px;
 	margin-top: 20px;
+	margin-left: 16px;
 }
 .icon--logo{
-	height: 20px;
-	width: 56px;
+	height:40px;
+	width: 40px;
 
 }
 .icon--logo img{
@@ -59,4 +60,43 @@
 
 .icon--analysis{
 	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -207px -1667px;
+}
+.navbar__icon--user{
+	height: 32px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	width: 250px;
+}
+.box__input-icon{
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	align-items: flex-end;
+}
+.box__input-icon div{
+	margin-bottom: 20px;
+}
+.icon--bell{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -788px -30px;
+	width: 20px;
+	height: 20px;
+	padding: 2px;
+}
+.icon--user{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -352px -894px;
+	height: 32px;
+	width: 32px;
+	border-radius: 50%;
+}
+.icon--reload{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -424px -201px;
+	height: 24px;
+	width: 24px;
+}
+.icon--navbar{
+	background: url('/assets/img/Sprites.64af8f61.svg') no-repeat -847px -35px;
+	height: 24px;
+	width: 24px;
+    margin-left: 24px;
 }

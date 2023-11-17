@@ -1,3 +1,10 @@
+.sidebar{
+    width: 200px;
+}
+.sidebar__icon{
+    height: 56px;
+    display: flex;
+}
 .list--item{
     display: flex;
     flex-direction: column;
@@ -11,6 +18,7 @@
     align-items: center;
     display: flex;
     justify-content: left;
+    border-radius:4px ;
 }
 .item:hover{
     background-color: #A7C4FF;
